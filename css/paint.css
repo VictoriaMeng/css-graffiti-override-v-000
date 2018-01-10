@@ -32,7 +32,7 @@ body {
   display: none
 }
 
-#wall #tag-3 .slick .wicked {
+#wall #tag-3[class~="slick"][class~="wicked"] {
   display: none
 }
 
