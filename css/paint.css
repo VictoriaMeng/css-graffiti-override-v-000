@@ -48,8 +48,9 @@ body {
   display: none
 }
 
-#wall .parent #tag-7 .slick{
+#wall .parent #tag-7 .slick {
   background: url(../images/tag-7.png) no-repeat;
   z-index: 1;
   display: block;
 }
+ 
